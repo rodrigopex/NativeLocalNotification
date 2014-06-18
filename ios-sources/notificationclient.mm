@@ -41,7 +41,7 @@
 
 #include "notificationclient.h"
 #include <QDebug>
-//#ifdef Q_OS_IOS
+
 //#include <QtAndroidExtras/QAndroidJniObject>
 
 #import <UIKit/UIKit.h>
